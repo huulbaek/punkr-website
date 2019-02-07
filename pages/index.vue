@@ -10,15 +10,21 @@
       <div style="text-align: center;">
         <img src="ic_launcher_round.png" style="height: 70px">
         <h3 class="display-3" style="display: inline-block; vertical-align: bottom">notSocks</h3>
-
         <div class="subheading">a <em>location first</em>, <b>action oriented</b> app for iOS and Android.</div>
-
-        <div class="title mt-3 mb-4">Coming to a store near you soon!</div>
+        <div class="title mt-3 mb-2">Coming to a store near you soon!</div>
+        <div class="badge"><img alt='Get it on Google Play' src='google_play_badge.png' style="width: 230px;"/></div>
+        <div class="badge mb-4"><img alt='Download from App Store' src='app_store_badge.png' style="width: 200px;"/></div>
       </div>
     </v-flex>
     <v-flex sm12 xs12 md6>
       <div style="text-align: center;">
-        <video autoplay loop muted poster="poster.png" playsinline controls="true">
+        <video
+          autoplay
+          loop
+          muted
+          poster="poster.png"
+          playsinline
+          controls="true">
           <source src="device_small.mp4" type="video/mp4">
           Your browser does not support the video tag.
         </video>
@@ -45,5 +51,8 @@ video {
     height: auto   !important;
     max-height: 100%;
   }
+}
+.badge {
+  opacity: 0.4;
 }
 </style>
