@@ -13,7 +13,7 @@
 
         <div class="subheading">a <em>location first</em>, <b>action oriented app for iOS and Android.</b></div>
 
-        <div class="title mt-3">Coming to a store near you in March 2019!</div>
+        <div class="title mt-3">Coming to a store near you soon!</div>
       </div>
     </v-flex>
     <v-flex sm12 xs12 md6>
@@ -44,7 +44,7 @@ video {
     width: 85%    !important;
     height: auto   !important;
     max-height: 100%;
-    filter: contrast(100%) !important;
+    filter: contrast(101%) !important;
   }
 }
 </style>
