@@ -11,7 +11,7 @@
         <img src="ic_launcher_round.png" style="height: 70px">
         <h3 class="display-3" style="display: inline-block; vertical-align: bottom">notSocks</h3>
 
-        <div class="subheading">a <em>location first</em>, <b>action oriented app for iOS and Android.</b></div>
+        <div class="subheading">a <em>location first</em>, <b>action oriented</b> app for iOS and Android.</div>
 
         <div class="title mt-3">Coming to a store near you soon!</div>
       </div>
