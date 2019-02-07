@@ -33,7 +33,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 video {
   width: 65%    !important;
   height: auto   !important;
@@ -44,7 +44,9 @@ video {
     width: 85%    !important;
     height: auto   !important;
     max-height: 100%;
-    filter: contrast(101%) !important;
+  }
+  .theme--dark.application {
+    background: #393939 !important;
   }
 }
 </style>
