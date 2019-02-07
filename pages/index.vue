@@ -13,13 +13,13 @@
 
         <div class="subheading">a <em>location first</em>, <b>action oriented</b> app for iOS and Android.</div>
 
-        <div class="title mt-3">Coming to a store near you soon!</div>
+        <div class="title mt-3 mb-4">Coming to a store near you soon!</div>
       </div>
     </v-flex>
     <v-flex sm12 xs12 md6>
       <div style="text-align: center;">
-        <video autoplay loop muted>
-          <source src="Untitled.mov" type="video/mp4">
+        <video autoplay loop muted preload="metadata">
+          <source src="device.mp4" type="video/mp4">
           Your browser does not support the video tag.
         </video>
       </div>
@@ -35,7 +35,7 @@ export default {
 
 <style>
 video {
-  width: 65%    !important;
+  width: 50%    !important;
   height: auto   !important;
   max-height: 100%;
 }
@@ -46,7 +46,7 @@ video {
     max-height: 100%;
   }
   .theme--dark.application {
-    background: #393939 !important;
+    /* background: #393939 !important; */
   }
 }
 </style>
