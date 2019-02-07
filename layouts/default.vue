@@ -55,7 +55,7 @@
         </v-list-tile>
         <v-list-tile style="position: absolute; bottom: 5px;">
           <v-content>
-            (c) Huulbæk Titanium
+            by Huulbæk Titanium
           </v-content>
         </v-list-tile>
       </v-list>
