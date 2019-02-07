@@ -45,8 +45,5 @@ video {
     height: auto   !important;
     max-height: 100%;
   }
-  .theme--dark.application {
-    /* background: #393939 !important; */
-  }
 }
 </style>
