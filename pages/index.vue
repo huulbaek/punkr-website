@@ -18,7 +18,7 @@
     </v-flex>
     <v-flex sm12 xs12 md6>
       <div style="text-align: center;">
-        <video autoplay loop muted preload="metadata">
+        <video autoplay loop muted poster="poster.png">
           <source src="device.mp4" type="video/mp4">
           Your browser does not support the video tag.
         </video>
