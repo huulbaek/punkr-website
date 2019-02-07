@@ -1,9 +1,7 @@
 <template>
   <v-layout
-    align-center
-    justify-center
-    row
-    fill-height
+    d-flex
+    style="margin-top: 30px; margin-left: 30px;"
   >
     <div>
       <h2>Contact</h2>

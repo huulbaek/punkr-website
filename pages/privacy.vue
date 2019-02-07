@@ -1,5 +1,5 @@
 <template>
-  <v-layout d-flex class="ml-3 mt-5">
+  <v-layout d-flex style="margin-top: 30px; margin-left: 30px;">
     <v-flex>
       <h2>Privacy</h2>
       <p>We really do care about your privacy, promise! Read the most important points regarding your data below.</p>
