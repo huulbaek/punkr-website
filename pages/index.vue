@@ -26,7 +26,8 @@
           muted
           poster="poster.png"
           playsinline
-          controls="true">
+          controls="true"
+        >
           <source src="device_small.mp4" type="video/mp4">
           Your browser does not support the video tag.
         </video>
