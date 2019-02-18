@@ -10,7 +10,7 @@
       <div style="text-align: center;">
         <div>
           <img src="ic_launcher_round.png" style="height: 70px">
-          <h3 class="display-3" style="display: inline-block; vertical-align: text-bottom">notSocks</h3>
+          <h3 class="display-3" style="display: inline-block; vertical-align: text-bottom">notSucks</h3>
         </div>
         <div class="subheading">a <em>location first</em>, <b>action oriented</b> app for iOS and Android.</div>
         <div class="title mt-3 mb-2">Coming to a store near you soon!</div>
