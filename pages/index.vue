@@ -16,7 +16,7 @@
         <div class="title mt-3 mb-2">Coming to a store near you soon!</div>
         <div class="title mt-3 mb-2">(in the meantime, you're welcome to beta versions on the links below)!</div>
         <div class="badge" style="opacity: 1; cursor: pointer"><img alt='Get it on Google Play' src='google_play_badge.png' style="width: 230px;" @click="openGooglePlay" /></div>
-        <div class="badge mb-4" style="opacity: 1; cursor: pointer"><img alt='Download from App Store' src='app_store_badge.png' style="width: 200px;"/></div>
+        <div class="badge mb-4" style="opacity: 1; cursor: pointer"><img alt='Download from App Store' src='app_store_badge.png' style="width: 200px;" @click="openAppStore" /></div>
       </div>
     </v-flex>
     <v-flex sm12 xs12 md6>
