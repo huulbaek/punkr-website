@@ -15,7 +15,7 @@
           </v-list-tile-avatar>
 
           <v-list-tile-content>
-            <v-list-tile-title style="color: black; font-size: 22px;">notSucks</v-list-tile-title>
+            <v-list-tile-title style="color: black; font-size: 22px;">Punksy</v-list-tile-title>
           </v-list-tile-content>
         </v-list-tile>
       </v-list>
