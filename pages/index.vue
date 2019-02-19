@@ -14,7 +14,7 @@
         </div>
         <div class="subheading">a <em>location first</em>, <b>action oriented</b> app for iOS and Android.</div>
         <div class="title mt-3 mb-2">Coming to a store near you soon!</div>
-        <div class="badge"><img alt='Get it on Google Play' src='google_play_badge.png' style="width: 230px;"/></div>
+        <div class="badge"><img alt='Get it on Google Play' src='google_play_badge.png' style="width: 230px;" @click="openGooglePlay" /></div>
         <div class="badge mb-4"><img alt='Download from App Store' src='app_store_badge.png' style="width: 200px;"/></div>
       </div>
     </v-flex>
@@ -38,7 +38,11 @@
 
 <script>
 export default {
-
+  methods: {
+    openGooglePlay () {
+      window.open('https://play.google.com/store/apps/details?id=net.sikker.lodgeapp')
+    }
+  }
 }
 </script>
 
