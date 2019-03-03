@@ -18,6 +18,16 @@
         <div class="badge" style="opacity: 1; cursor: pointer"><img alt='Get it on Google Play' src='google_play_badge.png' style="width: 230px;" @click="openGooglePlay" /></div>
         <div class="badge mb-4" style="opacity: 1; cursor: pointer"><img alt='Download from App Store' src='app_store_badge.png' style="width: 200px;" @click="openAppStore" /></div>
       </div>
+      <!-- div style="">
+        <v-carousel>
+          <v-carousel-item
+            dark
+            v-for="(item,i) in items"
+            :key="i"
+            :src="item"
+          ></v-carousel-item>
+        </v-carousel>
+      </div>-->
     </v-flex>
     <v-flex sm12 xs12 md6>
       <div style="text-align: center;">
@@ -39,6 +49,11 @@
 
 <script>
 export default {
+  data () {
+    return {
+      items: [ 'screenshot-1.png', 'screenshot-2.png', 'screenshot-3.png', 'screenshot-4.png' ]
+    }
+  },
   methods: {
     openGooglePlay () {
       window.open('https://play.google.com/store/apps/details?id=net.sikker.lodgeapp')
