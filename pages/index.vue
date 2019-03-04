@@ -13,8 +13,7 @@
           <h3 class="display-3" style="display: inline-block; vertical-align: text-bottom">Punkr</h3>
         </div>
         <div class="subheading">a <em>location first</em>, <b>action oriented</b> app for iOS and Android.</div>
-        <div class="title mt-3 mb-2">Coming to a store near you soon!</div>
-        <div class="title mt-3 mb-2">(in the meantime, you're welcome to beta versions on the links below)!</div>
+        <div class="title mt-3 mb-2">Get it in a store near you!</div>
         <div class="badge" style="opacity: 1; cursor: pointer"><img alt='Get it on Google Play' src='google_play_badge.png' style="width: 230px;" @click="openGooglePlay" /></div>
         <div class="badge mb-4" style="opacity: 1; cursor: pointer"><img alt='Download from App Store' src='app_store_badge.png' style="width: 200px;" @click="openAppStore" /></div>
       </div>
@@ -59,7 +58,7 @@ export default {
       window.open('https://play.google.com/store/apps/details?id=net.sikker.lodgeapp')
     },
     openAppStore () {
-      window.open('https://testflight.apple.com/join/8KQYWTPV')
+      window.open('https://itunes.apple.com/us/app/punkr/id1448126469')
     }
   }
 }
