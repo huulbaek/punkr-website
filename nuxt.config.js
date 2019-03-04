@@ -15,6 +15,7 @@ module.exports = {
       { name: 'og:image', content: 'https://punkr.app/feature-google-play.png' },
       { name: 'og:type', content: 'website' },
       { name: 'og:site_name', content: 'Punkr' },
+      { name: 'og:url', content: 'https://punkr.app/' },
       { name: 'og:description', content: pkg.description },
       { hid: 'description', name: 'description', content: pkg.description }
     ],
