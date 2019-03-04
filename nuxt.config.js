@@ -21,6 +21,7 @@ module.exports = {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'apple-touch-icon', href: '/ic_launcher_round.png' },
       {
         rel: 'stylesheet',
         href:
