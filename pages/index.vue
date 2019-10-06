@@ -8,9 +8,11 @@
   >
     <v-flex sm12 xs12 md6 grow>
       <div style="text-align: center;">
-        <div>
-          <img src="ic_launcher_round.png" style="height: 70px">
-          <h3 class="display-3" style="display: inline-block; vertical-align: text-bottom">Punkr</h3>
+        <div style="margin-bottom: 15px;">
+          <div style="background-color: black; display: inline-block; width: 80px; height: 80px; border-radius: 50%; padding-top: 9px;">
+            <img src="icon_colors.svg" style="height: 60px;">
+          </div>
+          <h3 class="display-3" style="display: inline-block; vertical-align: bottom; font-style: oblique; font-weight: 600">PUNKR</h3>
         </div>
         <div class="subheading">a <em>location first</em>, <b>action oriented</b> app for iOS and Android.</div>
         <div class="title mt-3 mb-2">Get it in a store near you!</div>
