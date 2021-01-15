@@ -10,6 +10,8 @@
       <h1>Security</h1>
       <p class="title"><b class="font-weight-black">YOUR</b> data is stored in a secure location in Europe. Only a handful of people have access to the servers and the data, but if you do not trust them or the security, you should not use this app.</p>
       <p>Please get in touch if you have any concerns.</p>
+      <h1>Background locations</h1>
+      <p class="title"><b class="font-weight-black">You can enable location updates while the app is in the background. This will save your <b>latest</b> location on our server. Only members of the same group can access the location.</p>
     </v-flex>
   </v-layout>
 </template>
