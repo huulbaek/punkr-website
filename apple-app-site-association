@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "E7Z564V4J4.net.sikker.lodgeapp",
+                "paths": ["/invite*", "/resetpassword*"]
+            }
+        ]
+    }
+}
