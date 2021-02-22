@@ -12,7 +12,7 @@ module.exports = {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { property: 'og:image', content: 'https://punkr.app/feature-google-play.png' },
+      { property: 'og:image', content: 'https://punkr.app/feature-image.png' },
       { property: 'og:type', content: 'website' },
       { property: 'og:title', content: 'Punkr!' },
       { property: 'og:site_name', content: 'Punkr' },
