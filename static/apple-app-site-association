@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "E7Z564V4J4.net.sikker.lodgeapp",
-                "paths": ["/invite*", "/resetpassword*"]
+                "paths": ["/invite*", "/resetpassword*", "/activity_detail*"]
             }
         ]
     }
