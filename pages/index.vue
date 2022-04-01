@@ -33,9 +33,7 @@
     <v-flex sm12 xs12 md6>
       <div style="text-align: center;">
         <video
-          autoplay
           loop
-          muted
           poster="poster.jpg"
           playsinline
           controls="true"
