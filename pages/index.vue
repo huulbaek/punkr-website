@@ -36,11 +36,11 @@
           autoplay
           loop
           muted
-          poster="poster.png"
+          poster="poster.jpg"
           playsinline
           controls="true"
         >
-          <source src="device_small.mp4" type="video/mp4">
+          <source src="device_small.mov" type="video/mp4">
           Your browser does not support the video tag.
         </video>
       </div>
