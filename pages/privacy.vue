@@ -6,7 +6,7 @@
         We really do care about your privacy. Read the most important points regarding your data below.
       </p>
       <p class="title">
-        <b class="font-weight-black">YOUR</b> personal content data (images, messages and GPS locations) are stored for <b>23 days</b> only. After that, the data is automatically deleted.
+        <b class="font-weight-black">YOU</b> can upload personal content data (images, messages and GPS locations) to our servers. They are private to your group and are deleted after <b>23 days</b> days.
       </p>
       <p class="title">
         <b class="font-weight-black">YOUR</b> personal content in a group is removed instantly, if you choose to leave that group.
