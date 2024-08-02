@@ -1,0 +1,22 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "4C4N7976U5.net.sikker.lodgeapp"
+                ],
+                "components": [
+                    {
+                        "/": "/invite*"
+                    },
+                    {
+                        "/": "/resetpassword*"
+                    },
+                    {
+                        "/": "/activity_detail*"
+                    }
+                ]
+            }
+        ]
+    }
+}
