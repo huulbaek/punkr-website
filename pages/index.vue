@@ -14,7 +14,7 @@
           </div>
           <h3 class="display-3" style="display: inline-block; vertical-align: bottom; font-style: oblique; font-weight: 600">PUNKR</h3>
         </div>
-        <div class="subheading">a <em>location first</em>, <b>action oriented</b> app for iOS and Android.</div>
+        <div class="subheading">a <em>location first</em>, <b>action oriented</b> app for iOS and Android. If you're going to Reeperbahn Festival, this is the app for you!</div>
         <div class="title mt-3 mb-2">Get it in a store near you!</div>
         <div class="badge" style="opacity: 1; cursor: pointer"><img alt='Get it on Google Play' src='google_play_badge.png' style="width: 230px;" @click="openGooglePlay" /></div>
         <div class="badge mb-4" style="opacity: 1; cursor: pointer"><img alt='Download from App Store' src='app_store_badge.png' style="width: 200px;" @click="openAppStore" /></div>
