@@ -56,6 +56,10 @@ module.exports = {
   modules: [
   ],
 
+  routeRules: {
+    '/invite': { redirect: '/' },
+  },
+
   /*
   ** Build configuration
   */
