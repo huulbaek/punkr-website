@@ -34,7 +34,7 @@
       <div style="text-align: center;">
         <video
           loop
-          poster="poster.jpg"
+          poster="poster.jpeg"
           playsinline
           controls="true"
         >
