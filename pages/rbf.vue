@@ -5,7 +5,7 @@
 <script>
 export default {
   mounted () {
-    window.location.href = 'https://rknup-alternate.app.link/BbiBZOd5bMb'
+    window.location.href = 'https://rknup.app.link/BbiBZOd5bMb'
   }
 }
 </script>
