@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "net.sikker.lodgeapp",
+                    "sha256_cert_fingerprints": ["D0:CD:E2:02:E2:E7:9A:D8:2B:9A:F0:AB:77:EC:79:F7:AE:D5:81:7E:6A:DD:21:D4:C8:5F:88:CF:0C:51:0B:17"] }
+}]
