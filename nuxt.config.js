@@ -58,6 +58,7 @@ module.exports = {
 
   routeRules: {
     '/invite': { redirect: '/' },
+    '/rbf': { redirect: 'https://rknup.app.link/BbiBZOd5bMb' },
   },
 
   /*
